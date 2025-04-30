@@ -37,6 +37,7 @@ Bem-vindo ao meu portfólio! Sou estudante de Engenharia de Software com foco em
 - **Versionamento de Código com Git e GitHub – DIO**  
 - **Contribuindo em um Projeto Open Source no GitHub – DIO**  
 - **Desafios de Projetos: Crie um Portfólio Vencedor – DIO**
+  
 
 ---
 
