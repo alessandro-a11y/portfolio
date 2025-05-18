@@ -49,7 +49,7 @@ Sou estudante de Engenharia de Software e estou dando meus primeiros passos na �
 
 - ✉️ Email: figueiredoalessandro73@gmail.com  
 - 📱 WhatsApp: (87) 98111-3699  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-a11y/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-figueiredo-989706357/?trk=opento_sprofile_topcard)
 
 ---
 
